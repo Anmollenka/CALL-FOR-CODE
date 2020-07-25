@@ -1,3 +1,4 @@
+#### Check out the live website - https://node-red-jxtol.eu-gb.mybluemix.net/ui/#!/0?socketid=3F9fDO9LP8J8Xy14AAIr
 # SBSPS-Challenge-1295-WAREHOUSE-MANAGEMENT-APPLICATION
 ## Description
 This is an overview of the project for the hackathon. The data was fed to the cloud and the best machine learning algorithm that gives the most accurate results on the test data-set was chosen. A machine learning model was trained using the chosen algorithm. This model will be the core technology on which our web and mobile applications will function.
